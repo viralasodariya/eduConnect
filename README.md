@@ -33,5 +33,5 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/EduConnect.git
+   git clone https://github.com/viralasodariya/EduConnect.git
    cd EduConnect
